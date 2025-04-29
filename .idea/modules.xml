@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/53. Maximum Subarray/53. Maximum Subarray.iml" filepath="$PROJECT_DIR$/53. Maximum Subarray/53. Maximum Subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtoIConversion/AtoIConversion.iml" filepath="$PROJECT_DIR$/AtoIConversion/AtoIConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.iml" filepath="$PROJECT_DIR$/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchToFindTargetinSortedArray/BinarySearchToFindTargetinSortedArray.iml" filepath="$PROJECT_DIR$/BinarySearchToFindTargetinSortedArray/BinarySearchToFindTargetinSortedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindBuildingWithAOceanView/FindBuildingWithAOceanView.iml" filepath="$PROJECT_DIR$/FindBuildingWithAOceanView/FindBuildingWithAOceanView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindMinimumInRotatedArray/FindMinimumInRotatedArray.iml" filepath="$PROJECT_DIR$/FindMinimumInRotatedArray/FindMinimumInRotatedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindPeakElementUsingBinarySearch/FindPeakElementUsingBinarySearch.iml" filepath="$PROJECT_DIR$/FindPeakElementUsingBinarySearch/FindPeakElementUsingBinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstBadVersion/FirstBadVersion.iml" filepath="$PROJECT_DIR$/FirstBadVersion/FirstBadVersion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstRepeatingCharacter/FirstRepeatingCharacter.iml" filepath="$PROJECT_DIR$/FirstRepeatingCharacter/FirstRepeatingCharacter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IPAddressProblem/IPAddressProblem.iml" filepath="$PROJECT_DIR$/IPAddressProblem/IPAddressProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Largest substring with same Characters/Largest substring with same Characters.iml" filepath="$PROJECT_DIR$/Largest substring with same Characters/Largest substring with same Characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.iml" filepath="$PROJECT_DIR$/MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoboCoordinatesProblem/RoboCoordinatesProblem.iml" filepath="$PROJECT_DIR$/RoboCoordinatesProblem/RoboCoordinatesProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchInsertPosition/SearchInsertPosition.iml" filepath="$PROJECT_DIR$/SearchInsertPosition/SearchInsertPosition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondAverageScoreStudentMarks.iml" filepath="$PROJECT_DIR$/SecondAverageScoreStudentMarks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleStreamsProblems/SimpleStreamsProblems.iml" filepath="$PROJECT_DIR$/SimpleStreamsProblems/SimpleStreamsProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" filepath="$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" />
+    </modules>
+  </component>
+</project>
